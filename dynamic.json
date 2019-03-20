@@ -1,0 +1,43 @@
+{
+  "basics":{
+    "img":"pictures/download (3).jpg",
+    "name":"Aishu",
+    "email":"aishu 27500@ gmil.com"
+  },
+  "career":{
+    "info":"i want to seek a position where i can design my new web apps"
+  },
+  "education":[
+    {
+      "sno":"1",
+      "degree":"btech",
+      "institution":"mits",
+      "per":"2021"
+    },
+    {
+      "sno":"2",
+      "degree":"intermediate",
+      "institution":"priyadarshini",
+      "per":"2017"
+    },
+    {
+      "sno":"3",
+      "degree":"10th class",
+      "institution":"govt high school",
+      "per":"2021"
+    }
+
+  ],
+  "skills":[
+    {
+      "info":"c"
+    },
+    {
+      "info":"c++"
+    },
+    {
+      "info":"java"
+    }
+  ]
+
+}
